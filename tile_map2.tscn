@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dyxpyxfvadc8b"]
+
+[ext_resource type="Texture2D" path="res://ChatGPT Image Apr 15, 2025, 09_08_05 AM.png" id="1_utqja"]
+
+[node name="TileMap" type="TileMap"]
+format = 2
+
+[node name="ChatGptImageApr15,2025,090805Am" type="Sprite2D" parent="."]
+position = Vector2(577.25, 323.625)
+scale = Vector2(0.748372, 0.629639)
+texture = ExtResource("1_utqja")
