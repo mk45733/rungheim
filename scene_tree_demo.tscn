@@ -2,6 +2,9 @@
 
 [ext_resource type="Script" path="res://SceneTreeDemo.gd" id="1_ri6u5"]
 
+[ext_resource type="Script" uid="uid://vx22mbecuh0x" path="res://SceneTreeDemo.gd" id="1_ri6u5"]
+
+
 [node name="SceneTreeDemo" type="Control"]
 layout_mode = 3
 anchors_preset = 15

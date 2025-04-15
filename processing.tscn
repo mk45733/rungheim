@@ -1,6 +1,10 @@
 [gd_scene load_steps=2 format=3 uid="uid://kab26ilild5o"]
 
+
 [ext_resource type="Script" path="res://processing.gd" id="1_o6hfw"]
+
+[ext_resource type="Script" uid="uid://3p407aixadl" path="res://processing.gd" id="1_o6hfw"]
+
 
 [node name="Processing" type="Node2D"]
 position = Vector2(0, -1)
